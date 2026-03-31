@@ -1,0 +1,13 @@
+<launch>
+    <let name="urdf_path"
+        value="$(find-pkg-share maze_bot)/urdf/maze_bot.urdf" />
+
+    <node pkg="robot_state_publisher" exec="robot_state_publisher">
+        <param name="robot_description"
+            value=" $(command 'xacro $(var urdf_path)')" />
+    </node>
+
+    <include file="$(find-pkg-share gazebo_ros)/launch/gazebo.launch.py">
+        <arg name="world" value="$(find-pkg-share maze_bot)/worlds/maze_camera_mazebot.world" />
+    </include> 
+</launch>
