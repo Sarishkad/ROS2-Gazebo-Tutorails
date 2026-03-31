@@ -1,4 +1,0 @@
-[console_scripts]
-obstacle_avoiding = rover.obstacle_avoiding:main
-wall_following = rover.wall_following:main
-

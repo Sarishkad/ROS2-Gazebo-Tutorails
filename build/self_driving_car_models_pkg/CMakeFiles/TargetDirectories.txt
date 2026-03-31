@@ -1,9 +1,0 @@
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/uninstall.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/self_driving_car_models_pkg_uninstall.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/test.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/edit_cache.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/rebuild_cache.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/list_install_components.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/install.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/install/local.dir
-/home/sarish/robotics_workspaces/ros_ws/src/build/self_driving_car_models_pkg/CMakeFiles/install/strip.dir

@@ -1,5 +1,0 @@
-[console_scripts]
-driving_maze_bot = maze_bot.driving_node:main
-maze_solver = maze_bot.maze_solver:main
-video_saver = maze_bot.video_saver:main
-
